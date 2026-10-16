@@ -1,0 +1,10 @@
+# Build output
+*.exe
+*.pdb
+*.zip
+*.dll
+
+# IDE
+.vs/
+*.user
+*.suo
